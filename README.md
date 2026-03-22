@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name : Vichuta Pipoppinyo<br>Nickname : Nice<br>Age : 20<br>Hobby : Drawing & listen to music<br>🎓 Education : Studying 3rd year , School of Information Technology, King Mongkut's University of Technology Thonburi<br> Interested job positions : Frontend , UX/UI designer
+Name : Vichuta Pipoppinyo<br>Nickname : Nice<br>Year Birth: 2002<br>Hobby : Drawing & listen to music<br>🎓 Education : Studying 3rd year , School of Information Technology, King Mongkut's University of Technology Thonburi<br> Interested job positions : Frontend , UX/UI designer
 
 
 ## 🌐 Socials:
