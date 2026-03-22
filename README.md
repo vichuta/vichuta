@@ -1,7 +1,7 @@
 # 💫 About Me:
 Name : Vichuta Pipoppinyo<br>Nickname : Nice<br>Year Birth: 2002<br>Hobby : Drawing & listen to music<br>
 🎓 Education:<br>
-Bachelor of Science in Information Technology (Graduated: 20XX),<br>
+Bachelor of Science in Information Technology (Graduated: 2024),<br>
 School of Information Technology, KMUTT<br>
 🧐 Interested job positions : Frontend , UX/UI designer, Game Developer
 
