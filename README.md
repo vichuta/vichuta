@@ -1,6 +1,9 @@
 # 💫 About Me:
-Name : Vichuta Pipoppinyo<br>Nickname : Nice<br>Year Birth: 2002<br>Hobby : Drawing & listen to music<br>🎓 Education : Studying 3rd year , School of Information Technology, King Mongkut's University of Technology Thonburi<br> Interested job positions : Frontend , UX/UI designer
-
+Name : Vichuta Pipoppinyo<br>Nickname : Nice<br>Year Birth: 2002<br>Hobby : Drawing & listen to music<br>
+🎓 Education:<br>
+Bachelor of Science in Information Technology (Graduated: 20XX),<br>
+School of Information Technology, KMUTT<br>
+🧐 Interested job positions : Frontend , UX/UI designer, Game Developer
 
 ## 🌐 Socials:
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vichuta.pipoppinyo.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nn.nice_vct) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nice17032545) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UC8WLydbVAcIzjIXxafC6Qdg) 
